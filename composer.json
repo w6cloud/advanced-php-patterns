@@ -1,0 +1,19 @@
+{
+    "name": "w6/patterns",
+    "description": "advanced PHP Patterns",
+    "type": "project",
+    "license": "GNU",
+    "autoload": {
+        "psr-4": {
+            "W6\\Patterns\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Pierre Aboucaya",
+            "email": "32245185+w6cloud@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

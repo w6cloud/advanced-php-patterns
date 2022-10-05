@@ -1,2 +1,3 @@
-# advanced-php-patterns
+# Advanced PHP Patterns
+
 WEB6 flavored PHP patterns.
